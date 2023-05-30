@@ -1,0 +1,6 @@
+pin.log
+obj-intel64/tainttool.o
+obj-intel64/tainttool.so
+.vscode/c_cpp_properties.json
+text/log.txt
+text/res.txt
